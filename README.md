@@ -1,4 +1,4 @@
-# Chromafy – Fullstack Color Palette Generator (Auth + React + Node)
+# Fullstack Color Palette Generator (Auth + React + Node)
 
 This project implements **authentication** (signup/login with JWT) and a **beautiful, interactive Color Palette Generator**.
 
